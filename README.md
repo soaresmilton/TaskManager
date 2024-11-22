@@ -27,7 +27,7 @@ Bora para os requisitos desse desafio? 🚀
 ### Requisitos
 
 <aside>
-<img src="/icons/list_purple.svg" alt="/icons/list_purple.svg" width="40px" /> Arquitetura em camadas
+ Arquitetura em camadas
 
 </aside>
 
@@ -41,7 +41,7 @@ Por isso, o seu projeto deve conter:
 ---
 
 <aside>
-<img src="/icons/list_purple.svg" alt="/icons/list_purple.svg" width="40px" /> Dados e campos sugeridos
+Dados e campos sugeridos
 
 </aside>
 
@@ -59,7 +59,7 @@ Uma tarefa deverá ter os seguintes campos:
 ---
 
 <aside>
-<img src="/icons/list_purple.svg" alt="/icons/list_purple.svg" width="40px" /> Endpoints necessários
+Endpoints necessários
 
 </aside>
 
@@ -70,7 +70,7 @@ Uma tarefa deverá ter os seguintes campos:
 - Deve ser possível excluir uma tarefa.
 
 <aside>
-<img src="/icons/warning_yellow.svg" alt="/icons/warning_yellow.svg" width="40px" /> Lembre-se de retornar *status code* apropriados em cada situação! 😉
+Lembre-se de retornar *status code* apropriados em cada situação! 😉
 
 </aside>
 
